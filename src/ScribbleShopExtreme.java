@@ -28,6 +28,7 @@ public class ScribbleShopExtreme extends ScribbleShop{
 				createAndShowGUI();
 			}
 		});
+		//
 	}
 
 	static void createAndShowGUI(){
