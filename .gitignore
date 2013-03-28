@@ -34,3 +34,4 @@ local.properties
 *.ap_
 *.dex
 *R.java
+/bin
